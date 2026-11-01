@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What is retrieval augmented generation?",
+        "answer": "There is no provided context to answer the question \"What is retrieval augmented generation?\". The provided context only contains information about unearned revenue, inbreeding vs selective breeding, and veterans loans.",
+        "trust_score": 0.5242337584495544,
+        "total_claims": 3,
+        "hallucinated_claims": 3,
+        "hallucination_rate": 1.0,
+        "latency": 1.507422924041748
+    },
+    {
+        "question": "What is LangChain?",
+        "answer": "There is no information provided about LangChain in the given context.",
+        "trust_score": 0.5522767305374146,
+        "total_claims": 1,
+        "hallucinated_claims": 1,
+        "hallucination_rate": 1.0,
+        "latency": 0.43425798416137695
+    },
+    {
+        "question": "What is FAISS?",
+        "answer": "There is no information about FAISS in the provided context.",
+        "trust_score": 0.5189627408981323,
+        "total_claims": 1,
+        "hallucinated_claims": 1,
+        "hallucination_rate": 1.0,
+        "latency": 0.42419886589050293
+    },
+    {
+        "question": "What is vector search?",
+        "answer": "There is no context provided for the question \"What is vector search?\". The provided context only includes information about forces, phonograms, and enhancing eyebrows.",
+        "trust_score": 0.5024446249008179,
+        "total_claims": 3,
+        "hallucinated_claims": 3,
+        "hallucination_rate": 1.0,
+        "latency": 0.8099350929260254
+    },
+    {
+        "question": "What are embeddings?",
+        "answer": "There is no mention of \"embeddings\" in the provided context.",
+        "trust_score": 0.5507210493087769,
+        "total_claims": 1,
+        "hallucinated_claims": 1,
+        "hallucination_rate": 1.0,
+        "latency": 0.406872034072876
+    }
+]
