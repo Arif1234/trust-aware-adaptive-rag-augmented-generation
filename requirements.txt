@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+scikit-learn
+datasets
+tqdm
+requests
+pypdf
+matplotlib
