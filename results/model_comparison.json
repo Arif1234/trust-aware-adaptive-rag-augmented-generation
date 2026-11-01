@@ -1,0 +1,30 @@
+{
+    "Model_A_Baseline": {
+        "accuracy": 0.655,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "latency_seconds": 277.7263288497925
+    },
+    "Model_B_Adaptive": {
+        "accuracy": 0.655,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "latency_seconds": 263.2046608924866
+    },
+    "Model_C_Adaptive_Trust": {
+        "accuracy": 0.345,
+        "precision": 0.3176470588235294,
+        "recall": 0.782608695652174,
+        "f1": 0.45188284518828453,
+        "latency_seconds": 35.36472678184509
+    },
+    "Model_D_Proposed": {
+        "accuracy": 0.345,
+        "precision": 0.345,
+        "recall": 1.0,
+        "f1": 0.5130111524163569,
+        "latency_seconds": 37.38140106201172
+    }
+}
